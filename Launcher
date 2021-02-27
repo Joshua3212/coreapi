@@ -1,1 +1,1 @@
-web mcr.microsoft.com/dotnet/core/sdk:3.1: dotnet coreapi.dll
+web mcr.microsoft.com/dotnet/core/sdk: dotnet coreapi.dll
