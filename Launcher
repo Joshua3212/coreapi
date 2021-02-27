@@ -1,1 +1,1 @@
-web dotnet: dotnet run
+web mcr.microsoft.com/dotnet/aspnet: dotnet run
