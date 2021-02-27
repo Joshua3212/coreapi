@@ -1,1 +1,1 @@
-web mcr.microsoft.com/dotnet/aspnet: dotnet run
+web microsoft/dotnet: dotnet coreapi.dll
